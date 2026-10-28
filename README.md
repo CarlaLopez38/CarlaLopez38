@@ -1,19 +1,15 @@
 
 
 
-<div align="center">
 
-<br>
+<div align="left">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&height=65&lines=Hey+there%2C+I%27m+Carla%21;Data+Science+Graduate;Exploring+AI%2C+Data+%26+Cloud" alt="Typing animation" />
-</a>
+<h2>Hey, I'm Carla.</h2>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1400&color=58A6FF&width=530&height=40&lines=Data+Science+Graduate;Exploring+AI%2C+Data+%26+Cloud;Turning+data+into+ideas" alt="Typing animation" />
 
 <p>
-  <b>Data Science · UPV</b><br>
-  <b>AI, Data & Cloud · EDEM</b>
+  Data Science graduate from <b>UPV</b>, currently pursuing a Master's in <b>AI, Data & Cloud at EDEM</b>.
 </p>
 
 <br>
